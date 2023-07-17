@@ -19,4 +19,4 @@ Designing a diode based clipping circuit which generates a square wave
 from a sinusodial wave generated from Wein bridge Oscillator
 ### Computational Engineering Mechanics - 2
 - Interpret a Research Paper
-- Kinematic Analysis of a Four Bar Mechanism
+- Kinematic Analysis of a Four-Bar Mechanism
